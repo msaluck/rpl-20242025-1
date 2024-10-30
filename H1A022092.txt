@@ -1,0 +1,5 @@
+1. Jelaskan mengenai GitLab dan GitHub?
+2. Apa perbedaan antara perintah git commit dan git push dalam penggunaan GIT?
+3. Jelaskan konsep branching dalam Git dan bagaimana pengelolaannya dapat membantu dalam pengembangan perangkat lunak kolaboratif!
+4. Bagaimana cara menggunakan perintah git merge dan apa manfaatnya dalam menggabungkan cabang (branch) yang berbeda?
+5. Jelaskan perbedaan antara local repository, remote repository, dan staging area dalam GIT!
