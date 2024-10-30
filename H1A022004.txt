@@ -1,0 +1,5 @@
+1. Apa perbedaan antara frontend dan backend dalam pengembangan web?
+2. Bagaimana cara kerja algoritma sorting seperti bubble sort atau merge sort?
+3. Apa itu Big O notation dan mengapa penting dalam analisis algoritma?
+4. Apa fungsi dari database index dan bagaimana pengaruhnya terhadap kecepatan query?
+5. Apa itu REST API dan bagaimana cara membuatnya?
