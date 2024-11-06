@@ -3,3 +3,10 @@
 3. Jelaskan konsep branching dalam Git dan bagaimana pengelolaannya dapat membantu dalam pengembangan perangkat lunak kolaboratif!
 4. Bagaimana cara menggunakan perintah git merge dan apa manfaatnya dalam menggabungkan cabang (branch) yang berbeda?
 5. Jelaskan perbedaan antara local repository, remote repository, dan staging area dalam GIT!
+
+H1A022032 Jawaban:
+1. GitLab dan GitHub adalah platform berbasis Git untuk pengembangan perangkat lunak kolaboratif, dengan fitur untuk repositori, manajemen proyek, dan integrasi CI/CD, namun GitLab lebih berfokus pada DevOps dan otomatisasi alur kerja.
+2. git commit menyimpan perubahan di repositori lokal, sementara git push mengirim perubahan tersebut ke repositori remote seperti GitHub atau GitLab.
+3. Branching dalam Git memungkinkan pengembang membuat cabang independen untuk fitur atau perbaikan, sehingga kolaborasi dan pengembangan paralel lebih mudah dan terstruktur.
+4. git merge digunakan untuk menggabungkan perubahan dari satu branch ke branch lainnya, memungkinkan sinkronisasi dan integrasi fitur yang berbeda dalam proyek.
+5. Local repository adalah repositori di komputer pengguna, remote repository berada di server eksternal, dan staging area adalah tempat untuk menyimpan perubahan sementara sebelum di-commit.
