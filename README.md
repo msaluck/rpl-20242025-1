@@ -9,4 +9,4 @@ H1A022060-Rahmat Amalul A\
 H1A022046-Azizah Najda H\
 H1A022048-Faza Syaquille S\
 H1A022076-Ryan Nashrullah\
-H1A022091-Bagus Satria B M\
+H1A022091-Bagus Satria B M
