@@ -38,3 +38,10 @@ H1A022092_Jawaban:
 5. REST API (Representational State Transfer Application Programming Interface) adalah arsitektur untuk membangun layanan web yang memungkinkan berbagai sistem untuk berkomunikasi menggunakan HTTP. Untuk membuat REST API, langkah-langkah utamanya adalah menetapkan rute atau endpoint untuk setiap operasi data, menggunakan metode HTTP seperti GET, POST, PUT, dan DELETE sesuai tindakan yang diinginkan, dan mengembalikan data dalam format JSON atau XML. Teknologi seperti Express.js di Node.js atau Django di Python sering digunakan untuk membangun REST API.
 
 >>>>>>> 1b31361495ede2099852ea710bdc2455d15f8ac1
+
+H1A022060   :
+1. Bagian yang langsung berinteraksi dengan pengguna, biasanya melibatkan komponen yang tampil di browser, sedangkan Bagian yang mengelola logika, penyimpanan data, dan komunikasi dengan frontend. Backend meliputi server, database, dan API yang menyediakan data ke frontend
+2. Bagian yang mengelola logika, penyimpanan data, dan komunikasi dengan frontend. Backend meliputi server, database, dan API yang menyediakan data ke frontend. Merge Sort: Algoritma ini menggunakan pendekatan divide and conquer. Daftar dibagi menjadi dua bagian hingga bagian-bagian ini hanya memiliki satu elemen. Kemudian, bagian-bagian kecil ini digabung kembali dalam urutan yang benar
+3. Big O Notation adalah cara untuk mendeskripsikan performa dan efisiensi algoritma dalam hal jumlah operasi yang dibutuhkan saat ukuran input bertambah. Ini memberikan perkiraan tentang seberapa cepat atau lambat suatu algoritma bekerja seiring bertambahnya data.
+4. Index dalam database adalah struktur data yang dibuat untuk mempercepat pencarian data di kolom tertentu. Index seperti "buku indeks" yang memungkinkan kita mencari informasi dengan cepat tanpa harus memindai setiap baris data. Dengan menggunakan index, query dapat dijalankan lebih cepat, terutama dalam dataset besar. 
+5. REST (Representational State Transfer) API adalah standar arsitektur untuk membangun layanan web yang memungkinkan komunikasi antara sistem melalui protokol HTTP. REST API menggunakan metode seperti GET, POST, PUT, DELETE untuk mengakses dan memanipulasi data.
