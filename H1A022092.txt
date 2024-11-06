@@ -10,3 +10,10 @@ H1A022032 Jawaban:
 3. Branching dalam Git memungkinkan pengembang membuat cabang independen untuk fitur atau perbaikan, sehingga kolaborasi dan pengembangan paralel lebih mudah dan terstruktur.
 4. git merge digunakan untuk menggabungkan perubahan dari satu branch ke branch lainnya, memungkinkan sinkronisasi dan integrasi fitur yang berbeda dalam proyek.
 5. Local repository adalah repositori di komputer pengguna, remote repository berada di server eksternal, dan staging area adalah tempat untuk menyimpan perubahan sementara sebelum di-commit.
+
+H1A022060 Jawaban   :
+1. GitHub adalah platform populer untuk berbagi dan berkolaborasi dalam pengembangan kode secara open-source. GitLab menyediakan fitur serupa dengan GitHub namun menonjol dalam aspek DevOps. Selain source control, GitLab memiliki fitur bawaan untuk CI/CD yang lebih mendalam, memungkinkan otomatisasi lebih lengkap dalam pengembangan aplikasi hingga deployment
+2. git commit: Menyimpan perubahan yang sudah disiapkan (staged) ke dalam repositori lokal (local repository). git push: Mengirimkan komit dari repositori lokal ke repositori jarak jauh (remote repository).
+3. Branching adalah konsep dalam Git yang memungkinkan pengembangan kode dilakukan pada cabang (branch) yang terpisah dari main branch (umumnya disebut main atau master). Pengelolaan branch yang baik (misalnya menggunakan konvensi seperti feature branches, release branches, dan hotfix branches) membantu dalam mengorganisir dan menyatukan perubahan dalam proses pengembangan perangkat lunak secara kolaboratif.
+4. git merge digunakan untuk menggabungkan perubahan dari satu cabang ke cabang lain, biasanya menggabungkan cabang fitur kembali ke main atau develop. Manfaat: Mengintegrasikan Perubahan, Kolaborasi, Penyimpanan Histori
+5. Local Repository: Repositori di komputer lokal, tempat penyimpanan perubahan yang telah dilakukan komit. Remote Repository: Repositori di server yang dapat diakses oleh banyak pengembang untuk berkolaborasi. Staging Area: Area sementara di mana perubahan ditandai untuk dikomit.
