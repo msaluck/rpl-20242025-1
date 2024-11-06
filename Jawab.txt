@@ -1,0 +1,8 @@
+Alvarras 
+1. 	Frontend: Bagian yang terlihat oleh pengguna, seperti tampilan, layout dan interaksi yang langsung bisa dirasakan
+	Backend: Bagian yang bekerja di belakang layar, mengelola data, logika bisnis, dan interaksi dengan database.
+2. Bubble Sort: Algoritma ini membandingkan elemen-elemen berdekatan secara berulang dan menukar jika tidak dalam urutan yang benar.
+   Merge Sort: Algoritma ini memecah daftar menjadi bagian-bagian yang lebih kecil, mengurutkan setiap bagian, lalu menggabungkan bagian-bagian yang sudah terurut
+3. Big O notation adalah cara untuk menggambarkan efisiensi suatu algoritma dalam hal waktu dan ruang yang dibutuhkan seiring dengan bertambahnya ukuran input. Ini penting karena membantu kita memilih algoritma yang paling tepat untuk suatu masalah, terutama untuk dataset yang besar.
+4. Database index adalah struktur data tambahan yang digunakan untuk mempercepat pencarian data dalam database.
+5. REST API (Representational State Transfer Application Programming Interface) adalah cara standar untuk membuat aplikasi berkomunikasi satu sama lain melalui internet. REST API menggunakan metode HTTP (GET, POST, PUT, DELETE) untuk melakukan operasi pada data. 
