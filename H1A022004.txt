@@ -3,3 +3,10 @@
 3. Apa itu Big O notation dan mengapa penting dalam analisis algoritma?
 4. Apa fungsi dari database index dan bagaimana pengaruhnya terhadap kecepatan query?
 5. Apa itu REST API dan bagaimana cara membuatnya?
+
+H1A022032 Jawaban:
+1. Frontend adalah bagian dari aplikasi web yang berinteraksi langsung dengan pengguna (UI/UX), sedangkan backend adalah bagian yang menangani logika, database, dan server untuk memproses data di belakang layar.
+2. Bubble Sort bekerja dengan membandingkan elemen berurutan dan menukarnya hingga seluruh elemen terurut. Merge Sort membagi data menjadi sub-bagian, mengurutkannya, lalu menggabungkannya kembali secara berurutan.
+3. Big O notation adalah cara untuk mengukur efisiensi algoritma, khususnya waktu dan ruang yang dibutuhkan saat skala data bertambah. Ini penting untuk memahami performa algoritma.
+4. Database index adalah struktur data yang mempercepat proses pencarian data dalam tabel. Dengan index, query menjadi lebih cepat karena database tidak perlu memeriksa setiap baris secara berurutan.
+5. REST API adalah antarmuka yang menggunakan metode HTTP untuk memungkinkan komunikasi antara klien dan server. Untuk membuatnya, definisikan endpoint HTTP (GET, POST, PUT, DELETE) yang sesuai dengan data dan operasi yang diinginkan.
