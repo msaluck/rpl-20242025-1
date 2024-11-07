@@ -3,9 +3,9 @@
 ## **NOTE! tanda kurung pada command dihapus**
 
 command urutan push
-git add .
-git commit -m "(namamu)"
-git push origin (nama branch)
+⋅⋅*git add .
+⋅⋅*git commit -m "(namamu)"
+⋅⋅*git push origin (nama branch)
 
 command melihat daftar branch
 git branch -a
