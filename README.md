@@ -12,5 +12,6 @@ command melihat daftar branch
 
 command pindah branch
 - git checkout (nama branch)
-- jika mengunjungi branch tapi file pada branch tersebut tidak ada, coba pakai command berikut
+
+jika mengunjungi branch tapi file pada branch tersebut tidak ada, coba pakai command berikut
 - git checkout -b (nama branch) origin/(nama branch)
