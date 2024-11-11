@@ -17,3 +17,10 @@ H1A022060 Jawaban   :
 3. Branching adalah konsep dalam Git yang memungkinkan pengembangan kode dilakukan pada cabang (branch) yang terpisah dari main branch (umumnya disebut main atau master). Pengelolaan branch yang baik (misalnya menggunakan konvensi seperti feature branches, release branches, dan hotfix branches) membantu dalam mengorganisir dan menyatukan perubahan dalam proses pengembangan perangkat lunak secara kolaboratif.
 4. git merge digunakan untuk menggabungkan perubahan dari satu cabang ke cabang lain, biasanya menggabungkan cabang fitur kembali ke main atau develop. Manfaat: Mengintegrasikan Perubahan, Kolaborasi, Penyimpanan Histori
 5. Local Repository: Repositori di komputer lokal, tempat penyimpanan perubahan yang telah dilakukan komit. Remote Repository: Repositori di server yang dapat diakses oleh banyak pengembang untuk berkolaborasi. Staging Area: Area sementara di mana perubahan ditandai untuk dikomit.
+
+H1A022048_Faza jawaban :
+1. github adalah platform kolaborasi untuk pengembangan perangkat lunak dan gitlab untuk mengelola repository git
+2. git commit untuk menyimpan perubahan sedangkan git push untuk mengirim perubahan
+3. branching adalah percabangan pada github
+4. git merge digunakan untuk menggabungkan branch
+5. Local repository adalah repository lokal sedangkan remote repository merupakan yang remot
