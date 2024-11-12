@@ -24,6 +24,7 @@ H1A022048_Faza jawaban :
 3. branching adalah percabangan pada github
 4. git merge digunakan untuk menggabungkan branch
 5. Local repository adalah repository lokal sedangkan remote repository merupakan yang remot
+<<<<<<< HEAD
 
 H1A022091 	:
 1. GitLab dan GitHub adalah layanan web hosting untuk menyimpan dan mengatur kode sumber proyek perangkat lunak menggunakan sistem pengontrol versi Git.
@@ -31,3 +32,5 @@ H1A022091 	:
 3. Branching memungkinkan Anda untuk membuat cabang baru dari cabang utama (biasanya disebut master atau main) untuk mengembangkan fitur baru atau memperbaiki bug tanpa mengganggu cabang utama.
 4. git merge adalah perintah untuk menggabungkan perubahan dari satu cabang ke cabang lain.Saat Anda telah selesai bekerja pada sebuah fitur di cabang terpisah, Anda dapat menggabungkannya ke cabang utama menggunakan git merge.
 5. Local repository adalah repositori Git yang disimpan di komputer lokal Anda.Remote repository adalah repositori Git yang disimpan di server jarak jauh, seperti GitHub atau GitLab.Staging area adalah area tempat Anda dapat menyiapkan perubahan sebelum di-commit ke local repository.
+=======
+>>>>>>> 85d264d2714b209c07f399cca8a1b62812f856bd
