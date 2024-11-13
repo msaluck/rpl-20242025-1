@@ -1,0 +1,47 @@
+1. Apa perbedaan antara frontend dan backend dalam pengembangan web?
+2. Bagaimana cara kerja algoritma sorting seperti bubble sort atau merge sort?
+3. Apa itu Big O notation dan mengapa penting dalam analisis algoritma?
+4. Apa fungsi dari database index dan bagaimana pengaruhnya terhadap kecepatan query?
+5. Apa itu REST API dan bagaimana cara membuatnya?
+
+H1A022032 Jawaban:
+1. Frontend adalah bagian dari aplikasi web yang berinteraksi langsung dengan pengguna (UI/UX), sedangkan backend adalah bagian yang menangani logika, database, dan server untuk memproses data di belakang layar.
+2. Bubble Sort bekerja dengan membandingkan elemen berurutan dan menukarnya hingga seluruh elemen terurut. Merge Sort membagi data menjadi sub-bagian, mengurutkannya, lalu menggabungkannya kembali secara berurutan.
+3. Big O notation adalah cara untuk mengukur efisiensi algoritma, khususnya waktu dan ruang yang dibutuhkan saat skala data bertambah. Ini penting untuk memahami performa algoritma.
+4. Database index adalah struktur data yang mempercepat proses pencarian data dalam tabel. Dengan index, query menjadi lebih cepat karena database tidak perlu memeriksa setiap baris secara berurutan.
+5. REST API adalah antarmuka yang menggunakan metode HTTP untuk memungkinkan komunikasi antara klien dan server. Untuk membuatnya, definisikan endpoint HTTP (GET, POST, PUT, DELETE) yang sesuai dengan data dan operasi yang diinginkan.
+
+H1A022091 
+1. 	Frontend: Bagian yang terlihat oleh pengguna, seperti tampilan, layout dan interaksi yang langsung bisa dirasakan
+	Backend: Bagian yang bekerja di belakang layar, mengelola data, logika bisnis, dan interaksi dengan database.
+2. Bubble Sort: Algoritma ini membandingkan elemen-elemen berdekatan secara berulang dan menukar jika tidak dalam urutan yang benar.
+   Merge Sort: Algoritma ini memecah daftar menjadi bagian-bagian yang lebih kecil, mengurutkan setiap bagian, lalu menggabungkan bagian-bagian yang sudah terurut
+3. Big O notation adalah cara untuk menggambarkan efisiensi suatu algoritma dalam hal waktu dan ruang yang dibutuhkan seiring dengan bertambahnya ukuran input. Ini penting karena membantu kita memilih algoritma yang paling tepat untuk suatu masalah, terutama untuk dataset yang besar.
+4. Database index adalah struktur data tambahan yang digunakan untuk mempercepat pencarian data dalam database.
+5. REST API (Representational State Transfer Application Programming Interface) adalah cara standar untuk membuat aplikasi berkomunikasi satu sama lain melalui internet. REST API menggunakan metode HTTP (GET, POST, PUT, DELETE) untuk melakukan operasi pada dat. 
+
+
+H1A022048
+1. Frontend: Bagian yang terlihat oleh pengguna, seperti tampilan, layout dan interaksi yang langsung bisa dirasakan
+Backend: Bagian yang bekerja di belakang layar, mengelola data, logika bisnis, dan interaksi dengan database.
+2. Bubble Sort: Algoritma ini membandingkan elemen-elemen berdekatan secara berulang dan menukar jika tidak dalam urutan yang benar.
+   Merge Sort: Algoritma ini memecah daftar menjadi bagian-bagian yang lebih kecil, mengurutkan setiap bagian, lalu menggabungkan bagian-bagian yang sudah terurut
+3. Big O notation adalah cara untuk menggambarkan efisiensi suatu algoritma dalam hal waktu dan ruang yang dibutuhkan seiring dengan bertambahnya ukuran input. Ini penting karena membantu kita memilih algoritma yang paling tepat untuk suatu masalah, terutama untuk dataset yang besar.
+4. Database index adalah struktur data tambahan yang digunakan untuk mempercepat pencarian data dalam database.
+5. REST API (Representational State Transfer Application Programming Interface) adalah cara standar untuk membuat aplikasi berkomunikasi satu sama lain melalui internet. REST API menggunakan metode HTTP (GET, POST, PUT, DELETE) untuk melakukan operasi pada data. 
+
+
+H1A022092_Jawaban:
+1. Frontend adalah bagian dari pengembangan web yang berfokus pada elemen-elemen visual dan interaktif yang berhadapan langsung dengan pengguna, seperti layout, desain, dan responsivitas halaman. 
+2. Algoritma bubble sort bekerja dengan cara membandingkan elemen-elemen yang berdekatan dan menukar posisinya jika urutannya salah, mengulangi proses ini sampai semua elemen terurut. Sementara itu, merge sort bekerja dengan membagi kumpulan data menjadi bagian-bagian kecil, mengurutkan setiap bagian secara rekursif, lalu menggabungkannya kembali dalam urutan yang benar. Bubble sort cenderung lebih lambat untuk dataset besar, sedangkan merge sort lebih efisien karena menggunakan metode pembagian dan penggabungan.
+3. Big O notation adalah cara untuk menggambarkan efisiensi waktu dan ruang dari algoritma, terutama saat ukuran input bertambah. Notasi Big O penting dalam analisis algoritma karena membantu pengembang memilih algoritma yang paling efisien, sehingga aplikasi dapat berjalan optimal dan hemat sumber daya, terutama untuk skala besar.
+4. Database index adalah struktur data yang dibuat untuk mempercepat pencarian data dalam tabel. Dengan adanya indeks, database tidak perlu memindai seluruh tabel untuk menemukan data yang dicari; sebaliknya, ia dapat langsung merujuk ke lokasi tertentu berdasarkan indeks.
+5. REST API (Representational State Transfer Application Programming Interface) adalah arsitektur untuk membangun layanan web yang memungkinkan berbagai sistem untuk berkomunikasi menggunakan HTTP. Untuk membuat REST API, langkah-langkah utamanya adalah menetapkan rute atau endpoint untuk setiap operasi data, menggunakan metode HTTP seperti GET, POST, PUT, dan DELETE sesuai tindakan yang diinginkan, dan mengembalikan data dalam format JSON atau XML. Teknologi seperti Express.js di Node.js atau Django di Python sering digunakan untuk membangun REST API.
+
+
+H1A022060   :
+1. Bagian yang langsung berinteraksi dengan pengguna, biasanya melibatkan komponen yang tampil di browser, sedangkan Bagian yang mengelola logika, penyimpanan data, dan komunikasi dengan frontend. Backend meliputi server, database, dan API yang menyediakan data ke frontend
+2. Bagian yang mengelola logika, penyimpanan data, dan komunikasi dengan frontend. Backend meliputi server, database, dan API yang menyediakan data ke frontend. Merge Sort: Algoritma ini menggunakan pendekatan divide and conquer. Daftar dibagi menjadi dua bagian hingga bagian-bagian ini hanya memiliki satu elemen. Kemudian, bagian-bagian kecil ini digabung kembali dalam urutan yang benar
+3. Big O Notation adalah cara untuk mendeskripsikan performa dan efisiensi algoritma dalam hal jumlah operasi yang dibutuhkan saat ukuran input bertambah. Ini memberikan perkiraan tentang seberapa cepat atau lambat suatu algoritma bekerja seiring bertambahnya data.
+4. Index dalam database adalah struktur data yang dibuat untuk mempercepat pencarian data di kolom tertentu. Index seperti "buku indeks" yang memungkinkan kita mencari informasi dengan cepat tanpa harus memindai setiap baris data. Dengan menggunakan index, query dapat dijalankan lebih cepat, terutama dalam dataset besar. 
+5. REST (Representational State Transfer) API adalah standar arsitektur untuk membangun layanan web yang memungkinkan komunikasi antara sistem melalui protokol HTTP. REST API menggunakan metode seperti GET, POST, PUT, DELETE untuk mengakses dan memanipulasi data.
