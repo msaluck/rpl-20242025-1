@@ -34,3 +34,14 @@ H1A022091 	:
 5. Local repository adalah repositori Git yang disimpan di komputer lokal Anda.Remote repository adalah repositori Git yang disimpan di server jarak jauh, seperti GitHub atau GitLab.Staging area adalah area tempat Anda dapat menyiapkan perubahan sebelum di-commit ke local repository.
 =======
 >>>>>>> 85d264d2714b209c07f399cca8a1b62812f856bd
+
+H1A022046 :
+1. Keduanya adalah platform hosting untuk menyimpan, mengelola, dan berkolaborasi dalam pengembangan kode menggunakan Git. GitHub lebih populer di kalangan open-source, sementara GitLab memiliki fitur DevOps lebih lengkap untuk CI/CD.
+
+2. `git commit` menyimpan perubahan secara lokal ke dalam repository kita, sedangkan `git push` mengirim perubahan yang sudah di-commit dari repository lokal ke repository remote.
+
+3. Branching adalah membuat cabang (branch) untuk bekerja pada fitur atau pembaruan tanpa memengaruhi kode utama. Ini memungkinkan tim bekerja secara paralel, menguji, dan memadukan kode baru sebelum diintegrasikan ke branch utama (misalnya, `main` atau `master`).
+
+4. `git merge` menggabungkan perubahan dari satu branch ke branch lain. Ini berguna untuk mengintegrasikan perubahan yang sudah diuji ke branch utama, sehingga semua perubahan terbaru bisa terintegrasi dalam satu alur pengembangan.
+
+5. Local repository adalah repository yang ada di komputer lokal
