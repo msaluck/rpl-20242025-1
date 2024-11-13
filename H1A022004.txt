@@ -45,3 +45,10 @@ H1A022060   :
 3. Big O Notation adalah cara untuk mendeskripsikan performa dan efisiensi algoritma dalam hal jumlah operasi yang dibutuhkan saat ukuran input bertambah. Ini memberikan perkiraan tentang seberapa cepat atau lambat suatu algoritma bekerja seiring bertambahnya data.
 4. Index dalam database adalah struktur data yang dibuat untuk mempercepat pencarian data di kolom tertentu. Index seperti "buku indeks" yang memungkinkan kita mencari informasi dengan cepat tanpa harus memindai setiap baris data. Dengan menggunakan index, query dapat dijalankan lebih cepat, terutama dalam dataset besar. 
 5. REST (Representational State Transfer) API adalah standar arsitektur untuk membangun layanan web yang memungkinkan komunikasi antara sistem melalui protokol HTTP. REST API menggunakan metode seperti GET, POST, PUT, DELETE untuk mengakses dan memanipulasi data.
+
+H1A022076_Ryan :
+1. Frontend adalah bagian dari aplikasi web yang berinteraksi langsung dengan pengguna (tampilan, UI), sedangkan backend adalah bagian yang mengelola logika, basis data, dan pemrosesan server di balik layar.
+2. Bubble Sort membandingkan elemen bersebelahan dan menukar posisi jika urutan salah, berulang hingga seluruh data terurut. Merge Sort membagi data menjadi sub-kumpulan, mengurutkannya secara rekursif, lalu menggabungkannya kembali secara terurut.
+3. Big O notation menggambarkan kompleksitas waktu atau ruang suatu algoritma, menunjukkan efisiensi seiring pertambahan ukuran input. Penting karena membantu memahami performa algoritma.
+4. Database index mempercepat pencarian data dengan menyimpan struktur data tambahan. Ini memungkinkan query berjalan lebih cepat dengan mencari data berdasarkan indeks daripada memindai seluruh tabel.
+5. REST API adalah antarmuka yang memungkinkan aplikasi berkomunikasi melalui HTTP menggunakan metode seperti GET, POST, PUT, DELETE. Untuk membuatnya, kita mendesain endpoint yang merespons permintaan HTTP dan mengelola data di backend sesuai metode yang diminta.
